@@ -1,8 +1,5 @@
-let num: number = 10;
+const myNum: number = 10;
 
-num = 'abc';
-
-function testing(): string {
-
-  return 10
+function test(): number {
+	return myNum;
 }
